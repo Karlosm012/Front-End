@@ -1,2 +1,2 @@
 # Front-End
-Filled with Front-End projects I have done while getting certificates.
+Front-End projects made while getting a Web Design Certification and Javascript Algorithms
